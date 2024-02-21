@@ -1,11 +1,10 @@
 <div id="header" align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzNTMzNDMsIm5iZiI6MTcwMzM1MzA0MywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDE3MzcyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyMWEyNmM0ZTQwNzkzYTcwYzk3YmJiYWE3OTdiZTBjMGNjZTc5ODBlZWEwYjk1ZTAxOGMxODA1OWUzOGExNjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Mq_wz6GHSisaqH1EA87rXXLFAYVnvXwhzEkVxiYkN1A" width="950" 
-     height="300"/>
+  <img src="https://github.com/fcsouza/fcsouza/raw/master/.github/header_.png"/>
 </div>
 <!--
 <h2 align="center">Hi 👋, I'm Rishabh Gupta</h2> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=+++++++++++++++++Hola+Amigo!+I'm+Rishabh+Gupta+++👋+,+App+Dev+at+Yocket+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=+++++++++++++++++++++++++++++++++++Hola+Amigo!+I'm+Rishabh+Gupta+++👋+,+App+Dev+at+Yocket+🚀)](https://git.io/typing-svg)
 
 ---
 ### About Me 🙋‍♂️
